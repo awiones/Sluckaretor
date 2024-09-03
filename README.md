@@ -24,6 +24,8 @@ cd Sluckaretor
 python sluckaretor.py
 ```
 
+![Screenshot](./preview.PNG)
+
 ### Main Menu Options
 
 - **[1] Password Creator:** Generates a wide variety of password combinations using all available inputs.
