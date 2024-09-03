@@ -17,10 +17,9 @@
 
 ## Installation
 
-1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Sluckaretor.git
+git clone https://github.com/awiones/Sluckaretor.git
 cd Sluckaretor
 python sluckaretor.py
 ```
